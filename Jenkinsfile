@@ -21,7 +21,15 @@ pipeline {
                     }
                 }
             }
-        }    
+        }
+                stage('Validation HTML') {
+                    steps {
+                        script {
+                           
+                            sh 'tidy -q -e _template_.html'
+                        }
+                    }
+                }    
     }
     post {
         success {
@@ -29,3 +37,4 @@ pipeline {
         }
     }
 }
+

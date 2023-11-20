@@ -1,0 +1,12 @@
+total 56
+794118 drwxr-xr-x 3 jenkins jenkins  4096 Nov 20 21:54 .
+794114 drwxr-xr-x 4 jenkins jenkins  4096 Nov 19 22:48 ..
+794201 -rw-r--r-- 1 jenkins jenkins     0 Nov 20 21:54 fichiers.txt
+794122 drwxr-xr-x 8 jenkins jenkins  4096 Nov 20 21:54 .git
+794155 -rw-r--r-- 1 jenkins jenkins  3676 Nov 19 22:48 index.md
+794250 -rw-r--r-- 1 jenkins jenkins   794 Nov 20 21:54 Jenkinsfile
+794152 -rw-r--r-- 1 jenkins jenkins  1064 Nov 19 22:48 LICENSE
+794207 -rw-r--r-- 1 jenkins jenkins 13278 Nov 20 21:17 processus.txt
+794153 -rw-r--r-- 1 jenkins jenkins   475 Nov 19 22:48 README.md
+794154 -rw-r--r-- 1 jenkins jenkins  2961 Nov 19 22:48 _template_.html
+794257 -rw-r--r-- 1 jenkins jenkins  7179 Nov 20 21:54 TestMaster.zip
